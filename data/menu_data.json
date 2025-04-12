@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Vegetable Burger",
+      "price": 50,
+      "description": "A healthy vegetable burger with fresh ingredients."
+    },
+    {
+      "id": 2,
+      "name": "Paneer Sandwich",
+      "price": 60,
+      "description": "Soft sandwich stuffed with grilled paneer and veggies."
+    },
+    {
+      "id": 3,
+      "name": "Margarita Pizza",
+      "price": 120,
+      "description": "Classic cheese pizza with a delicious tomato sauce base."
+    },
+    {
+      "id": 4,
+      "name": "French Fries",
+      "price": 40,
+      "description": "Crispy golden fries served with a side of ketchup."
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Milkshake",
+      "price": 70,
+      "description": "Rich and creamy milkshake made with real chocolate."
+    }
+  ]
+  
